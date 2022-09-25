@@ -1,5 +1,3 @@
-// Task Interactor
-
 #include <iostream>
 #include <math.h>
 
